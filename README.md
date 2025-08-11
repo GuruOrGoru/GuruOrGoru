@@ -2,7 +2,6 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Siddhartha Dhakal - Go Developer</title>
 </head>
 <body>
 
@@ -24,7 +23,7 @@
 <br/>
 
 <div align="center">
-    <h2>🛠️ My Technology Arsenal</h2>
+    <h2>My Technologia Stack</h2>
     <table>
         <tr>
             <td align="center" width="100">
@@ -75,7 +74,7 @@
 
 <hr/>
 
-<h2>📜 The Beginning</h2>
+<h2> Great story have harsh Beginning</h2>
 
 <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 10px; margin: 20px 0;">
     <p style="color: white; font-style: italic;">
@@ -99,7 +98,7 @@ That's when I tried my first program, and typed:</p>
 
 <hr/>
 
-<h2>💻 My Journey With Code</h2>
+<h2>My Journey With Keyboard</h2>
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guruorgoru&theme=radical&layout=compact&langs_count=8" alt="Top Languages" />
@@ -118,7 +117,7 @@ My lessons come from bugs that won't go away, and from code that refuses to run 
 
 <hr/>
 
-<h2>🚀 What I Have Made</h2>
+<h2>Accomplishment; If any?</h2>
 
 <table>
     <tr>
@@ -144,7 +143,7 @@ My lessons come from bugs that won't go away, and from code that refuses to run 
 
 <hr/>
 
-<h2>🌱 What I Am Doing Now</h2>
+<h2>Am I laying in bed; yes!</h2>
 
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=guruorgoru&theme=react-dark&bg_color=20232a&hide_border=true" alt="Contribution Graph"/>
@@ -158,7 +157,7 @@ sometimes winning, sometimes learning, but always growing.</p>
 
 <hr/>
 
-<h2>🎯 What I Believe</h2>
+<h2>Don't trust me</h2>
 
 <div style="background-color: #f6f8fa; border: 1px solid #d0d7de; border-radius: 6px; padding: 16px; margin: 16px 0;">
     <blockquote>
@@ -171,7 +170,7 @@ I code with joy, ship with hope, and debug with patience—because sometimes, th
 
 <hr/>
 
-<h2>🔗 Professional Links</h2>
+<h2>Flexing</h2>
 
 <div align="center">
     <a href="https://github.com/guruorgoru" target="_blank">
