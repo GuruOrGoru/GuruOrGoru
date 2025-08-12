@@ -1,27 +1,27 @@
-# 🚀 Siddhartha Dhakal | Cloud-Native Go Backend Engineer
+# Siddhartha Dhakal | Cloud-Native Go Backend Engineer
 
 <div align="center">
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=namaste(world)&fontSize=90&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Building%20the%20future,%20one%20microservice%20at%20a%20time&descAlignY=51&descAlign=62)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=120&lines=Cloud-Native+Backend+Engineer;gRPC+%7C+Microservices+%7C+CI%2FCD+Specialist;From+Nepal+%F0%9F%87%B3%F0%9F%87%B5+%7C+Building+Global+Solutions+%F0%9F%8C%8D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=120&lines=Cloud-Native+Backend+Engineer;gRPC+%7C+Microservices+%7C+CI%2FCD+Specialist;From+Nepal+%7C+Building+Global+Solutions)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 📊 System Status Dashboard
+## System Status Dashboard
 
 <div align="center">
 
-### 🎯 Core Metrics
+### Core Metrics
 
 [![Years Badge](https://img.shields.io/badge/Years%20Coding-5+-00D4AA?style=for-the-badge&logo=go&logoColor=white)](https://github.com/guruorgoru)
 [![Projects Badge](https://img.shields.io/badge/Projects%20Built-100+-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guruorgoru?tab=repositories)
 [![Languages Badge](https://img.shields.io/badge/Languages-10+-4ECDC4?style=for-the-badge&logo=polyglot&logoColor=white)](https://github.com/guruorgoru)
 [![Coffee Badge](https://img.shields.io/badge/Coffee%20Consumed-∞-8B4513?style=for-the-badge&logo=coffeescript&logoColor=white)](https://github.com/guruorgoru)
 
-### 📈 Real-Time Statistics
+### Real-Time Statistics
 
 <table>
 <tr>
@@ -44,11 +44,11 @@
 
 ---
 
-## 🛠️ Tech Arsenal & Weaponry
+## Tech Arsenal & Weaponry
 
 <div align="center">
 
-### 🏗️ Backend Infrastructure Stack
+### Backend Infrastructure Stack
 
 | Category | Technologies |
 |----------|-------------|
@@ -60,7 +60,7 @@
 | **CI/CD** | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FCA326?style=for-the-badge&logo=gitlab&logoColor=white) |
 | **Monitoring** | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white) ![Jaeger](https://img.shields.io/badge/Jaeger-66CFE5?style=for-the-badge&logo=jaeger&logoColor=white) |
 
-### 🎨 Frontend & Fullstack Tools
+### Frontend & Fullstack Tools
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -69,7 +69,7 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
 
-### 🔧 Development Tools
+### Development Tools
 
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
@@ -81,13 +81,13 @@
 
 ---
 
-## 🏆 Achievement Gallery
+## Achievement Gallery
 
 <div align="center">
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=guruorgoru&theme=tokyonight&no-frame=true&row=1&column=7&margin-h=15&margin-w=5&no-bg=true)
 
-### 🎖️ Current Certifications & Badges
+### Current Certifications & Badges
 
 ![Go Badge](https://img.shields.io/badge/Go_Expert-Advanced-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![gRPC Badge](https://img.shields.io/badge/gRPC_Specialist-Professional-4285F4?style=flat-square&logo=google&logoColor=white)
@@ -99,11 +99,11 @@
 
 ---
 
-## 🚀 Featured Projects & Masterpieces
+## Featured Projects & Masterpieces
 
 <div align="center">
 
-### 🎯 Signature Projects
+### Signature Projects
 
 </div>
 
@@ -111,7 +111,7 @@
 <tr>
 <td width="50%">
 
-### 🌟 Cloud-Native Microservices Platform
+### Cloud-Native Microservices Platform
 **Tech Stack:** `Go` `gRPC` `PostgreSQL` `Redis` `Docker` `K8s`
 
 ```go
@@ -128,16 +128,16 @@ type MicroservicesPlatform struct {
 ```
 
 **Features:**
-- 🔐 JWT-based authentication with refresh tokens
-- 📊 Real-time analytics dashboard
-- 🔄 Event-driven architecture with Kafka
-- 🌐 Auto-scaling with Kubernetes HPA
-- 📈 Prometheus monitoring + Grafana visualization
+- JWT-based authentication with refresh tokens
+- Real-time analytics dashboard
+- Event-driven architecture with Kafka
+- Auto-scaling with Kubernetes HPA
+- Prometheus monitoring + Grafana visualization
 
 </td>
 <td width="50%">
 
-### 💬 Real-time Chat System with WebSockets
+### Real-time Chat System with WebSockets
 **Tech Stack:** `Go` `WebSockets` `Redis Pub/Sub` `PostgreSQL`
 
 ```go
@@ -163,10 +163,10 @@ func (s *ChatServer) HandleWebSocket(w http.ResponseWriter, r *http.Request) {
 ```
 
 **Features:**
-- 🔥 Sub-millisecond message delivery
-- 👥 Room-based chat system
-- 🔄 Message persistence with PostgreSQL
-- 📱 Mobile-responsive WebSocket client
+- Sub-millisecond message delivery
+- Room-based chat system
+- Message persistence with PostgreSQL
+- Mobile-responsive WebSocket client
 
 </td>
 </tr>
@@ -176,7 +176,7 @@ func (s *ChatServer) HandleWebSocket(w http.ResponseWriter, r *http.Request) {
 <tr>
 <td width="50%">
 
-### 🛒 E-Commerce Backend API
+### E-Commerce Backend API
 **Tech Stack:** `Go` `Chi Router` `GORM` `PostgreSQL` `JWT`
 
 ```go
@@ -207,12 +207,12 @@ func (api *ECommerceAPI) Routes() http.Handler {
 </td>
 <td width="50%">
 
-### 🔄 CI/CD Pipeline Automation
+### CI/CD Pipeline Automation
 **Tech Stack:** `GitHub Actions` `Docker` `Kubernetes` `Terraform`
 
 ```yaml
 # Advanced deployment pipeline
-name: 🚀 Deploy to Production
+name: Deploy to Production
 on:
   push:
     branches: [main]
@@ -226,17 +226,17 @@ jobs:
         with:
           go-version: '1.21'
       
-      - name: 🧪 Run Tests
+      - name: Run Tests
         run: |
           go test -v -race -coverprofile=coverage.out ./...
           go tool cover -html=coverage.out -o coverage.html
       
-      - name: 🐳 Build & Push Docker Image
+      - name: Build & Push Docker Image
         run: |
           docker build -t ${{ secrets.REGISTRY }}/app:${{ github.sha }} .
           docker push ${{ secrets.REGISTRY }}/app:${{ github.sha }}
       
-      - name: 🚀 Deploy to K8s
+      - name: Deploy to K8s
         run: |
           kubectl set image deployment/app app=${{ secrets.REGISTRY }}/app:${{ github.sha }}
 ```
@@ -247,7 +247,7 @@ jobs:
 
 ---
 
-## 📈 Activity Heatmap & Contribution Graph
+## Activity Heatmap & Contribution Graph
 
 <div align="center">
 
@@ -257,11 +257,11 @@ jobs:
 
 ---
 
-## 🎓 My Learning Journey & Philosophy
+## My Learning Journey & Philosophy
 
 <div align="center">
 
-### 📚 From Biratnagar to the Cloud
+### From Biratnagar to the Cloud
 
 </div>
 
@@ -271,9 +271,9 @@ jobs:
 <tr>
 <td width="60%">
 
-### 🛤️ The Path Less Traveled
+### The Path Less Traveled
 
-Growing up in **Biratnagar, Nepal** 🇳🇵, technology felt like a distant dream. My father worked for **three years** to buy me a laptop - not just a machine, but a gateway to infinite possibilities.
+Growing up in **Biratnagar, Nepal**, technology felt like a distant dream. My father worked for **three years** to buy me a laptop - not just a machine, but a gateway to infinite possibilities.
 
 **My First Program:**
 ```c
@@ -287,7 +287,7 @@ int main() {
 ```
 
 That moment sparked something deep inside me. From that simple `printf` statement, I've built:
-- **100+ projects** (many lost in hard drive crashes 😅)
+- **100+ projects** (many lost in hard drive crashes)
 - **Multiple hackathon participations**
 - **Enterprise-grade microservices**
 - **Real-time communication systems**
@@ -296,7 +296,7 @@ That moment sparked something deep inside me. From that simple `printf` statemen
 </td>
 <td width="40%">
 
-### 🎯 Current Learning Targets
+### Current Learning Targets
 
 ```go
 type LearningGoals struct {
@@ -327,7 +327,7 @@ var my LearningGoals = LearningGoals{
 }
 ```
 
-### 📊 Skills Progression
+### Skills Progression
 
 ```
 Go Programming    ████████████ 95%
@@ -344,11 +344,11 @@ System Design    ██████       70%
 
 ---
 
-## 🌟 Philosophy & Code Mantras
+## Philosophy & Code Mantras
 
 <div align="center">
 
-### 💭 Developer Wisdom
+### Developer Wisdom
 
 </div>
 
@@ -377,11 +377,11 @@ func (dp *DeveloperPhilosophy) LiveBy() {
 
 var myPhilosophy = DeveloperPhilosophy{
     Mantras: []string{
-        "🚀 Ship fast, fail faster, learn fastest",
-        "🔧 Automate everything that can be automated",
-        "🧪 Test like your production depends on it (it does)",
-        "📖 Document like you'll forget everything tomorrow (you will)",
-        "🤝 Code is written for humans, not just machines",
+        "Ship fast, fail faster, learn fastest",
+        "Automate everything that can be automated",
+        "Test like your production depends on it (it does)",
+        "Document like you'll forget everything tomorrow (you will)",
+        "Code is written for humans, not just machines",
     },
     Values: map[string]string{
         "simplicity":     "Complexity is the enemy of reliability",
@@ -401,11 +401,11 @@ var myPhilosophy = DeveloperPhilosophy{
 
 ---
 
-## 🎪 Fun Zone & Easter Eggs
+## Fun Zone & Easter Eggs
 
 <div align="center">
 
-### 🎲 Random Developer Facts
+### Random Developer Facts
 
 </div>
 
@@ -413,14 +413,14 @@ var myPhilosophy = DeveloperPhilosophy{
 <tr>
 <td width="50%">
 
-### 🍕 Debug Stats
+### Debug Stats
 - **Bugs Fixed:** `∞ + 1` (there's always one more)
 - **Coffee Cups:** `∞ / 0` (undefined but necessary)  
 - **Stack Overflow Visits:** `2^64` (integer overflow)
 - **"It works on my machine":** `404 times`
 - **Rubber Duck Conversations:** `Daily`
 
-### 🎯 Favorite Error Messages
+### Favorite Error Messages
 ```bash
 panic: runtime error: slice bounds out of range
 # Story of my life
@@ -435,10 +435,10 @@ cannot find symbol
 </td>
 <td width="50%">
 
-### 🎨 Code Art Gallery
+### Code Art Gallery
 
 ```go
-//     🐹 Gopher's Prayer 🐹
+//     Gopher's Prayer
 //  ╔═══════════════════════════╗
 //  ║  func main() {            ║
 //  ║    for {                  ║
@@ -453,13 +453,13 @@ cannot find symbol
 //  ╚═══════════════════════════╝
 ```
 
-### 🎵 Current Coding Playlist
+### Current Coding Playlist
 ```
-🎧 Lo-fi Hip Hop Radio (for deep focus)
-🎸 Synthwave (for late-night debugging)  
-🎼 Classical (for complex algorithms)
-🥁 Electronic (for deployment days)
-☕ Café Sounds (for documentation)
+Lo-fi Hip Hop Radio (for deep focus)
+Synthwave (for late-night debugging)  
+Classical (for complex algorithms)
+Electronic (for deployment days)
+Café Sounds (for documentation)
 ```
 
 </td>
@@ -468,11 +468,11 @@ cannot find symbol
 
 ---
 
-## 📞 Let's Connect & Collaborate
+## Let's Connect & Collaborate
 
 <div align="center">
 
-### 🌐 Find Me Across the Internet
+### Find Me Across the Internet
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/siddhartha-dhakal)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/guruorgoru)
@@ -481,7 +481,7 @@ cannot find symbol
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio.com)
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/guruorgoru)
 
-### 💌 Open For
+### Open For
 
 ```go
 type Opportunities struct {
@@ -526,11 +526,11 @@ var currentlyOpen = Opportunities{
 }
 ```
 
-### 🎯 Quick Response Promise
-- 📧 **Emails:** Within 24 hours
-- 💼 **Job Opportunities:** Within 48 hours  
-- 🤝 **Collaboration Requests:** Within 72 hours
-- ☕ **Coffee Chats:** Always open!
+### Quick Response Promise
+- **Emails:** Within 24 hours
+- **Job Opportunities:** Within 48 hours  
+- **Collaboration Requests:** Within 72 hours
+- **Coffee Chats:** Always open!
 
 </div>
 
@@ -538,12 +538,12 @@ var currentlyOpen = Opportunities{
 
 <div align="center">
 
-### 🎭 Closing Thoughts
+### Closing Thoughts
 
 ```go
 func farewell() string {
     return fmt.Sprintf(`
-    Thanks for visiting my digital home! 🏠
+    Thanks for visiting my digital home!
     
     Remember: Every expert was once a beginner.
     Every pro was once an amateur.
@@ -552,17 +552,17 @@ func farewell() string {
     But they all had one thing in common:
     They never gave up on their journey.
     
-    Keep coding, keep learning, keep building! 🚀
+    Keep coding, keep learning, keep building!
     
     // TODO: Change the world, one commit at a time
     `)
 }
 ```
 
-### 📊 Visitor Count
+### Visitor Count
 ![Profile Views](https://komarev.com/ghpvc/?username=guruorgoru&color=00d4aa&style=for-the-badge&label=Profile+Views)
 
-### ⭐ If you found this README impressive, give it a star!
+### If you found this README impressive, give it a star!
 
 [![Stars](https://img.shields.io/github/stars/guruorgoru/guruorgoru?style=social)](https://github.com/guruorgoru/guruorgoru)
 [![Forks](https://img.shields.io/github/forks/guruorgoru/guruorgoru?style=social)](https://github.com/guruorgoru/guruorgoru)
@@ -575,11 +575,11 @@ func farewell() string {
 
 ---
 
-### 🎪 **Fun Fact of the Day**
+### **Fun Fact of the Day**
 ```go
 // Did you know?
 var funFact = "The Go gopher's name is actually just 'Gopher' - no official name!"
 var myFact = "I once debugged a 'hello world' program for 3 hours. The issue? Wrong file extension."
 ```
 
-**Made with ❤️, ☕, and countless hours of Stack Overflow**
+**Made with love, coffee, and countless hours of Stack Overflow**
