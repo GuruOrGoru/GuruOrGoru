@@ -1,12 +1,3 @@
-# Siddhartha Dhakal | Cloud-Native Go Backend Engineer
-
-<div align="center">
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=namaste(world)&fontSize=90&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Building%20the%20future,%20one%20microservice%20at%20a%20time&descAlignY=51&descAlign=62)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=120&lines=Cloud-Native+Backend+Engineer;gRPC+%7C+Microservices+%7C+CI%2FCD+Specialist;From+Nepal+%7C+Building+Global+Solutions)](https://git.io/typing-svg)
-
-</div>
 
 ---
 
