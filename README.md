@@ -41,13 +41,5 @@
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=guruorgoru&theme=tokyonight&no-frame=true&row=1&column=7&margin-h=15&margin-w=5&no-bg=true)
 
-### Current Certifications & Badges
-
-![Go Badge](https://img.shields.io/badge/Go_Expert-Advanced-00ADD8?style=flat-square&logo=go&logoColor=white)
-![gRPC Badge](https://img.shields.io/badge/gRPC_Specialist-Professional-4285F4?style=flat-square&logo=google&logoColor=white)
-![Microservices Badge](https://img.shields.io/badge/Microservices_Architect-Expert-FF6B6B?style=flat-square&logo=microgenetics&logoColor=white)
-![Cloud Badge](https://img.shields.io/badge/Cloud_Native-Professional-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![CI/CD Badge](https://img.shields.io/badge/CI%2FCD_Engineer-Advanced-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-
 </div>
 
